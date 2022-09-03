@@ -1,0 +1,92 @@
+body {
+  background-image: url(../img/bg.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.ty {
+  vertical-align: middle;
+}
+
+h2 {
+  color: rgb(35, 28, 21);
+  background-color: rgb(71, 36, 36);
+  text-align: center;
+}
+p {
+  color: rgb(232, 213, 197);
+  text-align: center;
+}
+
+.icon3 {
+  width: 20px;
+  height: 15px;
+}
+.tb {
+  
+  font-family: 'Caveat', cursive;
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  color:rgb(229, 209, 194) ;
+  font-size: 20px;
+}
+
+header {
+  background-color: rgb(193, 162, 138);
+  color: rgb(71, 36, 36);
+  font-style: italic;
+  font-size: 15px;
+}
+
+.micon{
+    display: block;
+    width: 30%;
+    margin: auto;
+}
+
+span {
+  text-align: center;
+  background-color: rgb(193, 162, 138);
+  display: inline-block;
+  color: rgb(71, 36, 36);
+  width: 200px;
+  height: 350px;
+  border: 6px;
+  border-radius: 5px;
+  margin-left: 6px;
+  margin-bottom: 6px;
+
+}
+
+.div2{
+    padding-left: 19%;
+    padding-right: 19%;
+    text-align: center;
+}
+
+
+
+img {
+  text-align: center;
+  height: 70%;
+  padding-top: 10px;
+}
+footer {
+  background-color: rgb(193, 162, 138);
+  color: rgb(71, 36, 36);
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+button {
+  background-color: rgb(71, 36, 36);
+  color: rgb(193, 162, 138);
+  width: 150px;
+  height: 25px;
+  text-align: center;
+}
+footer,
+header,
+span {
+  background-color: rgb(139, 121, 106);
+}
